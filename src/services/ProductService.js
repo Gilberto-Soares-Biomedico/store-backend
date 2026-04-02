@@ -218,4 +218,3 @@ class ProductService {
 // Exportamos uma ÚNICA INSTÂNCIA da classe.
 // Isso garante que todos que usarem o serviço estarão usando o mesmo objeto (padrão Singleton).
 module.exports = new ProductService();
-
